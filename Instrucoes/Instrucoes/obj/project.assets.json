@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nicol\\source\\repos\\Instrucoes\\Instrucoes\\Instrucoes.csproj",
+      "projectUniqueName": "C:\\Users\\nicol\\source\\repos\\DigitalInnovation-Basico\\Instrucoes\\Instrucoes\\Instrucoes.csproj",
       "projectName": "Instrucoes",
-      "projectPath": "C:\\Users\\nicol\\source\\repos\\Instrucoes\\Instrucoes\\Instrucoes.csproj",
+      "projectPath": "C:\\Users\\nicol\\source\\repos\\DigitalInnovation-Basico\\Instrucoes\\Instrucoes\\Instrucoes.csproj",
       "packagesPath": "C:\\Users\\nicol\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nicol\\source\\repos\\Instrucoes\\Instrucoes\\obj\\",
+      "outputPath": "C:\\Users\\nicol\\source\\repos\\DigitalInnovation-Basico\\Instrucoes\\Instrucoes\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nicol\\AppData\\Roaming\\NuGet\\NuGet.Config",

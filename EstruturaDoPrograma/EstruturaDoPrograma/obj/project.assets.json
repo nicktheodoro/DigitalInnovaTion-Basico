@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nicol\\source\\repos\\EstruturaDoPrograma\\EstruturaDoPrograma\\EstruturaDoPrograma.csproj",
+      "projectUniqueName": "C:\\Users\\nicol\\source\\repos\\DigitalInnovation-Basico\\EstruturaDoPrograma\\EstruturaDoPrograma\\EstruturaDoPrograma.csproj",
       "projectName": "EstruturaDoPrograma",
-      "projectPath": "C:\\Users\\nicol\\source\\repos\\EstruturaDoPrograma\\EstruturaDoPrograma\\EstruturaDoPrograma.csproj",
+      "projectPath": "C:\\Users\\nicol\\source\\repos\\DigitalInnovation-Basico\\EstruturaDoPrograma\\EstruturaDoPrograma\\EstruturaDoPrograma.csproj",
       "packagesPath": "C:\\Users\\nicol\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nicol\\source\\repos\\EstruturaDoPrograma\\EstruturaDoPrograma\\obj\\",
+      "outputPath": "C:\\Users\\nicol\\source\\repos\\DigitalInnovation-Basico\\EstruturaDoPrograma\\EstruturaDoPrograma\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nicol\\AppData\\Roaming\\NuGet\\NuGet.Config",

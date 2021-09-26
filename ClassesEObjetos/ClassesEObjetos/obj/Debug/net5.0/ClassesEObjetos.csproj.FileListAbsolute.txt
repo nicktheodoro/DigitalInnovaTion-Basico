@@ -1,0 +1,16 @@
+C:\Users\nicol\source\repos\ClassesEObjetos\ClassesEObjetos\bin\Debug\net5.0\ClassesEObjetos.exe
+C:\Users\nicol\source\repos\ClassesEObjetos\ClassesEObjetos\bin\Debug\net5.0\ClassesEObjetos.deps.json
+C:\Users\nicol\source\repos\ClassesEObjetos\ClassesEObjetos\bin\Debug\net5.0\ClassesEObjetos.runtimeconfig.json
+C:\Users\nicol\source\repos\ClassesEObjetos\ClassesEObjetos\bin\Debug\net5.0\ClassesEObjetos.runtimeconfig.dev.json
+C:\Users\nicol\source\repos\ClassesEObjetos\ClassesEObjetos\bin\Debug\net5.0\ClassesEObjetos.dll
+C:\Users\nicol\source\repos\ClassesEObjetos\ClassesEObjetos\bin\Debug\net5.0\ref\ClassesEObjetos.dll
+C:\Users\nicol\source\repos\ClassesEObjetos\ClassesEObjetos\bin\Debug\net5.0\ClassesEObjetos.pdb
+C:\Users\nicol\source\repos\ClassesEObjetos\ClassesEObjetos\obj\Debug\net5.0\ClassesEObjetos.csproj.AssemblyReference.cache
+C:\Users\nicol\source\repos\ClassesEObjetos\ClassesEObjetos\obj\Debug\net5.0\ClassesEObjetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\source\repos\ClassesEObjetos\ClassesEObjetos\obj\Debug\net5.0\ClassesEObjetos.AssemblyInfoInputs.cache
+C:\Users\nicol\source\repos\ClassesEObjetos\ClassesEObjetos\obj\Debug\net5.0\ClassesEObjetos.AssemblyInfo.cs
+C:\Users\nicol\source\repos\ClassesEObjetos\ClassesEObjetos\obj\Debug\net5.0\ClassesEObjetos.csproj.CoreCompileInputs.cache
+C:\Users\nicol\source\repos\ClassesEObjetos\ClassesEObjetos\obj\Debug\net5.0\ClassesEObjetos.dll
+C:\Users\nicol\source\repos\ClassesEObjetos\ClassesEObjetos\obj\Debug\net5.0\ref\ClassesEObjetos.dll
+C:\Users\nicol\source\repos\ClassesEObjetos\ClassesEObjetos\obj\Debug\net5.0\ClassesEObjetos.pdb
+C:\Users\nicol\source\repos\ClassesEObjetos\ClassesEObjetos\obj\Debug\net5.0\ClassesEObjetos.genruntimeconfig.cache
