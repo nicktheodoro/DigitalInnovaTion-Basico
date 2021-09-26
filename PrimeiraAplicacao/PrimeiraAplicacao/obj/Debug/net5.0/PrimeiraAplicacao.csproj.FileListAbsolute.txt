@@ -1,0 +1,16 @@
+C:\Users\nicol\source\repos\PrimeiraAplicacao\PrimeiraAplicacao\bin\Debug\net5.0\PrimeiraAplicacao.exe
+C:\Users\nicol\source\repos\PrimeiraAplicacao\PrimeiraAplicacao\bin\Debug\net5.0\PrimeiraAplicacao.deps.json
+C:\Users\nicol\source\repos\PrimeiraAplicacao\PrimeiraAplicacao\bin\Debug\net5.0\PrimeiraAplicacao.runtimeconfig.json
+C:\Users\nicol\source\repos\PrimeiraAplicacao\PrimeiraAplicacao\bin\Debug\net5.0\PrimeiraAplicacao.runtimeconfig.dev.json
+C:\Users\nicol\source\repos\PrimeiraAplicacao\PrimeiraAplicacao\bin\Debug\net5.0\PrimeiraAplicacao.dll
+C:\Users\nicol\source\repos\PrimeiraAplicacao\PrimeiraAplicacao\bin\Debug\net5.0\ref\PrimeiraAplicacao.dll
+C:\Users\nicol\source\repos\PrimeiraAplicacao\PrimeiraAplicacao\bin\Debug\net5.0\PrimeiraAplicacao.pdb
+C:\Users\nicol\source\repos\PrimeiraAplicacao\PrimeiraAplicacao\obj\Debug\net5.0\PrimeiraAplicacao.csproj.AssemblyReference.cache
+C:\Users\nicol\source\repos\PrimeiraAplicacao\PrimeiraAplicacao\obj\Debug\net5.0\PrimeiraAplicacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\source\repos\PrimeiraAplicacao\PrimeiraAplicacao\obj\Debug\net5.0\PrimeiraAplicacao.AssemblyInfoInputs.cache
+C:\Users\nicol\source\repos\PrimeiraAplicacao\PrimeiraAplicacao\obj\Debug\net5.0\PrimeiraAplicacao.AssemblyInfo.cs
+C:\Users\nicol\source\repos\PrimeiraAplicacao\PrimeiraAplicacao\obj\Debug\net5.0\PrimeiraAplicacao.csproj.CoreCompileInputs.cache
+C:\Users\nicol\source\repos\PrimeiraAplicacao\PrimeiraAplicacao\obj\Debug\net5.0\PrimeiraAplicacao.dll
+C:\Users\nicol\source\repos\PrimeiraAplicacao\PrimeiraAplicacao\obj\Debug\net5.0\ref\PrimeiraAplicacao.dll
+C:\Users\nicol\source\repos\PrimeiraAplicacao\PrimeiraAplicacao\obj\Debug\net5.0\PrimeiraAplicacao.pdb
+C:\Users\nicol\source\repos\PrimeiraAplicacao\PrimeiraAplicacao\obj\Debug\net5.0\PrimeiraAplicacao.genruntimeconfig.cache

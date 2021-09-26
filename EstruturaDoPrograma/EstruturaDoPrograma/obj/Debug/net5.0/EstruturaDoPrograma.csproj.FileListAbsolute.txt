@@ -1,0 +1,16 @@
+C:\Users\nicol\source\repos\EstruturaDoPrograma\EstruturaDoPrograma\obj\Debug\net5.0\EstruturaDoPrograma.csproj.AssemblyReference.cache
+C:\Users\nicol\source\repos\EstruturaDoPrograma\EstruturaDoPrograma\obj\Debug\net5.0\EstruturaDoPrograma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\source\repos\EstruturaDoPrograma\EstruturaDoPrograma\obj\Debug\net5.0\EstruturaDoPrograma.AssemblyInfoInputs.cache
+C:\Users\nicol\source\repos\EstruturaDoPrograma\EstruturaDoPrograma\obj\Debug\net5.0\EstruturaDoPrograma.AssemblyInfo.cs
+C:\Users\nicol\source\repos\EstruturaDoPrograma\EstruturaDoPrograma\obj\Debug\net5.0\EstruturaDoPrograma.csproj.CoreCompileInputs.cache
+C:\Users\nicol\source\repos\EstruturaDoPrograma\EstruturaDoPrograma\bin\Debug\net5.0\EstruturaDoPrograma.exe
+C:\Users\nicol\source\repos\EstruturaDoPrograma\EstruturaDoPrograma\bin\Debug\net5.0\EstruturaDoPrograma.deps.json
+C:\Users\nicol\source\repos\EstruturaDoPrograma\EstruturaDoPrograma\bin\Debug\net5.0\EstruturaDoPrograma.runtimeconfig.json
+C:\Users\nicol\source\repos\EstruturaDoPrograma\EstruturaDoPrograma\bin\Debug\net5.0\EstruturaDoPrograma.runtimeconfig.dev.json
+C:\Users\nicol\source\repos\EstruturaDoPrograma\EstruturaDoPrograma\bin\Debug\net5.0\EstruturaDoPrograma.dll
+C:\Users\nicol\source\repos\EstruturaDoPrograma\EstruturaDoPrograma\bin\Debug\net5.0\ref\EstruturaDoPrograma.dll
+C:\Users\nicol\source\repos\EstruturaDoPrograma\EstruturaDoPrograma\bin\Debug\net5.0\EstruturaDoPrograma.pdb
+C:\Users\nicol\source\repos\EstruturaDoPrograma\EstruturaDoPrograma\obj\Debug\net5.0\EstruturaDoPrograma.dll
+C:\Users\nicol\source\repos\EstruturaDoPrograma\EstruturaDoPrograma\obj\Debug\net5.0\ref\EstruturaDoPrograma.dll
+C:\Users\nicol\source\repos\EstruturaDoPrograma\EstruturaDoPrograma\obj\Debug\net5.0\EstruturaDoPrograma.pdb
+C:\Users\nicol\source\repos\EstruturaDoPrograma\EstruturaDoPrograma\obj\Debug\net5.0\EstruturaDoPrograma.genruntimeconfig.cache
