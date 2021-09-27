@@ -1,0 +1,16 @@
+C:\Users\nicol\source\repos\DigitalInnovation-Basico\Revisao\Revisao\bin\Debug\net5.0\Revisao.exe
+C:\Users\nicol\source\repos\DigitalInnovation-Basico\Revisao\Revisao\bin\Debug\net5.0\Revisao.deps.json
+C:\Users\nicol\source\repos\DigitalInnovation-Basico\Revisao\Revisao\bin\Debug\net5.0\Revisao.runtimeconfig.json
+C:\Users\nicol\source\repos\DigitalInnovation-Basico\Revisao\Revisao\bin\Debug\net5.0\Revisao.runtimeconfig.dev.json
+C:\Users\nicol\source\repos\DigitalInnovation-Basico\Revisao\Revisao\bin\Debug\net5.0\Revisao.dll
+C:\Users\nicol\source\repos\DigitalInnovation-Basico\Revisao\Revisao\bin\Debug\net5.0\ref\Revisao.dll
+C:\Users\nicol\source\repos\DigitalInnovation-Basico\Revisao\Revisao\bin\Debug\net5.0\Revisao.pdb
+C:\Users\nicol\source\repos\DigitalInnovation-Basico\Revisao\Revisao\obj\Debug\net5.0\Revisao.csproj.AssemblyReference.cache
+C:\Users\nicol\source\repos\DigitalInnovation-Basico\Revisao\Revisao\obj\Debug\net5.0\Revisao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\source\repos\DigitalInnovation-Basico\Revisao\Revisao\obj\Debug\net5.0\Revisao.AssemblyInfoInputs.cache
+C:\Users\nicol\source\repos\DigitalInnovation-Basico\Revisao\Revisao\obj\Debug\net5.0\Revisao.AssemblyInfo.cs
+C:\Users\nicol\source\repos\DigitalInnovation-Basico\Revisao\Revisao\obj\Debug\net5.0\Revisao.csproj.CoreCompileInputs.cache
+C:\Users\nicol\source\repos\DigitalInnovation-Basico\Revisao\Revisao\obj\Debug\net5.0\Revisao.dll
+C:\Users\nicol\source\repos\DigitalInnovation-Basico\Revisao\Revisao\obj\Debug\net5.0\ref\Revisao.dll
+C:\Users\nicol\source\repos\DigitalInnovation-Basico\Revisao\Revisao\obj\Debug\net5.0\Revisao.pdb
+C:\Users\nicol\source\repos\DigitalInnovation-Basico\Revisao\Revisao\obj\Debug\net5.0\Revisao.genruntimeconfig.cache
